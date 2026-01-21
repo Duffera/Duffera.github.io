@@ -22,11 +22,8 @@ redirect_from:
  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">课程项目 2024</div><img src='images/project1.png' alt="时序预测项目" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">课程项目</div><img src='images/project1.png' alt="时序预测项目" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**王艺凡**
-
-[**项目报告**]
 </div>
 </div>
